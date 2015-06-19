@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+==============
+
+Hi Everyone!
+
+This is my first README file in GitHub. Let the programming begin.
